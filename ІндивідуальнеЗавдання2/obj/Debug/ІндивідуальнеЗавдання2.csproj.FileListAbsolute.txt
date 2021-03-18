@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб2\Лаб_2\ІндивідуальнеЗавдання2\bin\Debug\ІндивідуальнеЗавдання2.exe.config
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб2\Лаб_2\ІндивідуальнеЗавдання2\bin\Debug\ІндивідуальнеЗавдання2.exe
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб2\Лаб_2\ІндивідуальнеЗавдання2\bin\Debug\ІндивідуальнеЗавдання2.pdb
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб2\Лаб_2\ІндивідуальнеЗавдання2\obj\Debug\ІндивідуальнеЗавдання2.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб2\Лаб_2\ІндивідуальнеЗавдання2\obj\Debug\ІндивідуальнеЗавдання2.Form1.resources
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб2\Лаб_2\ІндивідуальнеЗавдання2\obj\Debug\ІндивідуальнеЗавдання2.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб2\Лаб_2\ІндивідуальнеЗавдання2\obj\Debug\ІндивідуальнеЗавдання2.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб2\Лаб_2\ІндивідуальнеЗавдання2\obj\Debug\ІндивідуальнеЗавдання2.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб2\Лаб_2\ІндивідуальнеЗавдання2\obj\Debug\ІндивідуальнеЗавдання2.exe
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб2\Лаб_2\ІндивідуальнеЗавдання2\obj\Debug\ІндивідуальнеЗавдання2.pdb

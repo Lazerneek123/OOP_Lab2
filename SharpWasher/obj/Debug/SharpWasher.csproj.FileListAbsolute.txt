@@ -1,0 +1,7 @@
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб2\Лаб_2\SharpWasher\bin\Debug\SharpWasher.exe.config
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб2\Лаб_2\SharpWasher\bin\Debug\SharpWasher.exe
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб2\Лаб_2\SharpWasher\bin\Debug\SharpWasher.pdb
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб2\Лаб_2\SharpWasher\obj\Debug\SharpWasher.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб2\Лаб_2\SharpWasher\obj\Debug\SharpWasher.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб2\Лаб_2\SharpWasher\obj\Debug\SharpWasher.exe
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб2\Лаб_2\SharpWasher\obj\Debug\SharpWasher.pdb

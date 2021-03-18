@@ -1,0 +1,6 @@
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб2\Завдання_1\Лаб_2\bin\Debug\Лаб_2.exe.config
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб2\Завдання_1\Лаб_2\bin\Debug\Лаб_2.exe
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб2\Завдання_1\Лаб_2\bin\Debug\Лаб_2.pdb
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб2\Завдання_1\Лаб_2\obj\Debug\Завдання_2.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб2\Завдання_1\Лаб_2\obj\Debug\Лаб_2.exe
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб2\Завдання_1\Лаб_2\obj\Debug\Лаб_2.pdb

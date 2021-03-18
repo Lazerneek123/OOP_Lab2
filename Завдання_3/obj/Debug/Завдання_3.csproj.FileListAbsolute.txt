@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб2\Завдання_1\Завдання_3\bin\Debug\Завдання_3.exe.config
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб2\Завдання_1\Завдання_3\bin\Debug\Завдання_3.exe
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб2\Завдання_1\Завдання_3\bin\Debug\Завдання_3.pdb
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб2\Завдання_1\Завдання_3\obj\Debug\Завдання_3.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб2\Завдання_1\Завдання_3\obj\Debug\Завдання_3.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб2\Завдання_1\Завдання_3\obj\Debug\Завдання_3.exe
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб2\Завдання_1\Завдання_3\obj\Debug\Завдання_3.pdb
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб2\Лаб_2\Завдання_3\bin\Debug\Завдання_3.exe.config
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб2\Лаб_2\Завдання_3\bin\Debug\Завдання_3.exe
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб2\Лаб_2\Завдання_3\bin\Debug\Завдання_3.pdb
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб2\Лаб_2\Завдання_3\obj\Debug\Завдання_3.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб2\Лаб_2\Завдання_3\obj\Debug\Завдання_3.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб2\Лаб_2\Завдання_3\obj\Debug\Завдання_3.exe
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб2\Лаб_2\Завдання_3\obj\Debug\Завдання_3.pdb
